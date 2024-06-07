@@ -20,7 +20,7 @@ This repository contains a collection of JavaScript code challenges that demonst
 
 ## Table of Figures
 
-1. ![Calculate Life in Weeks](images/life-in-weeks.png)
+1. [!Calculate Life in Weeks](images/life-in-weeks.png)
 2. [BMI Calculator](images/BMI.png)
 3. [Love Calculator](images/love-calculator.png)
 4. [Leap Year Checker](images/Leap.png)
