@@ -7,25 +7,23 @@ This repository contains a collection of JavaScript code challenges that demonst
 ## Table of Contents
 
 1. Calculate Life in Weeks
-2. [BMI Calculator](images/BMI.png)
+2. BMI Calculator
 3. Love Calculator
-4. [Leap Year Checker](images/Leap.png)
+4. Leap Year Checker
 5. Name Checker in Array
-6. [FizzBuzz](images/FizzBuzz.png)
+6. FizzBuzz
 7. Lunch Buyer
 8. Print Numbers Except 50
 9. Print Specific Numbers
-10. [Fibonacci Generator](images/fibonacci%20chart.png)
-11. [Fibonacci Generator chart](images/fibonacci%20chart.png)
+10. Fibonacci Generator
+
 
 ## Table of Figures
 
-1. [!Calculate Life in Weeks](images/life-in-weeks.png)
-2. [BMI Calculator](images/BMI.png)
-3. [Love Calculator](images/love-calculator.png)
-4. [Leap Year Checker](images/Leap.png)
-5. [FizzBuzz](images/FizzBuzz.png)
-6. [Fibonacci Generator](images/fibonacci.png)
-7. [Fibonacci Generator Chart](images/fibonacci%20chart.png)
+# ![BMI Calculator](images/BMI.png)
+# ![Leap Year Checker](images/Leap.png)
+# ![FizzBuzz](images/FizzBuzz.png)
+# ![Fibonacci Generator](images/fibonacci.png)
+# ![Fibonacci Generator Chart](images/fibonacci%20chart.png)
 
 
