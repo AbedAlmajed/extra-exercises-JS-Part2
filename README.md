@@ -18,6 +18,14 @@ This repository contains a collection of JavaScript code challenges that demonst
 10. [Fibonacci Generator](images/fibonacci%20chart.png)
 11. [Fibonacci Generator chart](images/fibonacci%20chart.png)
 
+## Table of Figures
 
+1. ![Calculate Life in Weeks](images/life-in-weeks.png)
+2. [BMI Calculator](images/BMI.png)
+3. [Love Calculator](images/love-calculator.png)
+4. [Leap Year Checker](images/Leap.png)
+5. [FizzBuzz](images/FizzBuzz.png)
+6. [Fibonacci Generator](images/fibonacci.png)
+7. [Fibonacci Generator Chart](images/fibonacci%20chart.png)
 
 
